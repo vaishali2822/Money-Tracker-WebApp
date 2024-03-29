@@ -1,4 +1,4 @@
-** Money Tracker App **
+**Money Tracker App**
 This is a simple web application for managing expenses and income. It allows users to track their financial transactions conveniently. The application is built using HTML, CSS, Node.js, and MongoDB.
 
 Features
